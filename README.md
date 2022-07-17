@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,3 +13,4 @@ https://reecedevenney.github.io/run-buddy/
 ## Contribution
 Reece Devenney
 
+### ©️2019 Run Buddy, Inc 
