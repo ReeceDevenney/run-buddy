@@ -12,3 +12,5 @@ https://reecedevenney.github.io/run-buddy/
 
 ## Contribution
 Reece Devenney
+
+### ©️2019 Run Buddy, Inc 
